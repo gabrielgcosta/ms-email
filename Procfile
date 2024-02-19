@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/java-git-scraping-0.0.1-SNAPSHOT.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar target/ms-email-0.0.1-SNAPSHOT.jar
